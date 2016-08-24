@@ -15,7 +15,7 @@ require 'compass'
 require 'slim-rails'
 require 'uglifier'
 
-require 'bootstrap'
+require 'bootstrap4'
 require 'jquery-rails'
 require 'rails-assets-tether'
 
