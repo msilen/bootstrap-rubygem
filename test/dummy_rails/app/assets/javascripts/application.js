@@ -1,6 +1,6 @@
 //= require jquery
 //= require tether
-//= require bootstrap-sprockets
+//= require bootstrap4/bootstrap-sprockets
 
 jQuery(function ($) {
     $('[data-toggle="tooltip"]').tooltip()
